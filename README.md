@@ -1,4 +1,4 @@
-# TF-IDF N-grams Cosine Similarity (Educational)
+# TF-IDF N-grams Cosine Similarity
 
 Small educational script that compares **three texts** using **TF-IDF** features built from **n-grams** and computes **pairwise cosine similarity**.
 
